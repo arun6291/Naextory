@@ -1,0 +1,35 @@
+body {
+  font-family: "Nunito Sans", sans-serif;
+  padding: 30px;
+}
+body .product-title label {
+  background-color: #253f8e;
+  color: #fff;
+  margin: 0;
+  padding: 5px 10px;
+  margin-left: 5px;
+  font-weight: 400;
+  width: 150px;
+}
+body .add-product {
+  background-color: #f2f3f4;
+  padding: 10px;
+  border: 1px solid #000;
+  margin-bottom: 30px;
+}
+body .add-product .table-responsive {
+  padding: 10px;
+  border: none;
+}
+body .add-product .table-responsive .table {
+  margin: 0;
+}
+body .add-product .form-control {
+  border-color: #000;
+  border-radius: 0;
+}
+body .table-bordered th, body td {
+  border: 1px solid #000 !important;
+}
+
+/*# sourceMappingURL=style.css.map */
